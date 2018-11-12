@@ -1,0 +1,54 @@
+$backgroundColor: #f3f3f3;
+
+%title_bg {
+	height:45px;
+	line-height:45px;
+	background:#E7E5E6;
+	border-top: 1px solid #3598db;
+}
+%title_font{
+	font-size: 16px;
+	color:#444444;
+    margin-left:10px;
+}
+%home_title{
+	@extend %title_bg;
+     h2 {
+	  @extend %title_font;
+	}
+}
+
+@mixin triangle($width:50px){
+	width:50px;
+	height:50px;
+	background: rgb(53, 152, 220);
+	transform: rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	-moz-transform:rotate(45deg);
+	-ms-transform:rotate(45deg);
+	-o-transform:rotate(45deg);
+	position:absolute;
+	z-index:-99;
+	left:-5px;
+
+}
+%white_space{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+@mixin transition($animate,$duration,$timing){
+	transition: $animate $duration $timing;
+	-moz-transition: $animate $duration $timing;
+	-webkit-transition:$animate $duration $timing;
+	-ms-transition:$animate $duration $timing;
+	-o-transition:$animate $duration $timing;
+}
+%middle_center{
+	display: flex;
+	display: -webkit-flex;
+	justify-content: center;
+	-webkit-justify-content:center;
+	align-items: center;
+	-webkit-align-items:center;
+}

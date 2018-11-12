@@ -1,0 +1,115 @@
+{
+	"ret": true,
+	"data":{
+		"newsList": [{
+			"id": 1,
+			"title": "这里是标题一",
+			"imgUrl":"./static/img/news_11.jpg",
+			"desc": "北京地铁7号线,是北京地铁第18条开通运营的线路,由北京市地铁运营有限公司运营一分公司负责运营。该线西起北京西站,东至焦化厂站,沿线经过丰台、西城、东城、朝阳4."
+		}, {
+			"id": 2,
+			"title": "这里是标题二",
+			"imgUrl":"/static/img/news_11.jpg",
+			"desc": "北京地铁7号线,是北京地铁第18条开通运营的线路,由北京市地铁运营有限公司运营一分公司负责运营。该线西起北京西站,东至焦化厂站,沿线经过丰台、西城、东城、朝阳4."
+		}, {
+			"id": 3,
+			"title": "这里是标题三",
+			"imgUrl":"/static/img/news_10.jpg",
+			"desc": "北京地铁7号线,是北京地铁第18条开通运营的线路,由北京市地铁运营有限公司运营一分公司负责运营。该线西起北京西站,东至焦化厂站,沿线经过丰台、西城、东城、朝阳4."
+		}, {
+			"id": 4,
+			"title": "这里是标题四",
+			"imgUrl":"/static/img/news_10.jpg",
+			"desc": "北京地铁7号线,是北京地铁第18条开通运营的线路,由北京市地铁运营有限公司运营一分公司负责运营。该线西起北京西站,东至焦化厂站,沿线经过丰台、西城、东城、朝阳4."
+		}, {
+			"id": 5,
+			"title": "这里是标题五",
+			"imgUrl":"/static/img/news_10.jpg",
+			"desc": "北京地铁7号线,是北京地铁第18条开通运营的线路,由北京市地铁运营有限公司运营一分公司负责运营。该线西起北京西站,东至焦化厂站,沿线经过丰台、西城、东城、朝阳4."
+		}],
+		"productList": [{
+			"id": 1,
+			"title": "这里是标题一",
+			"imgUrl":"./static/img/pic1.jpg"
+		}, {
+			"id": 2,
+			"title": "这里是标题二",
+			"imgUrl":"/static/img/pic2.jpg"
+		}, {
+			"id": 3,
+			"title": "这里是标题三",
+			"imgUrl":"/static/img/pic3.jpg"
+		}, {
+			"id": 4,
+			"title": "这里是标题四",
+			"imgUrl":"/static/img/pic4.jpg"
+		}, {
+			"id": 5,
+			"title": "这里是标题五",
+			"imgUrl":"/static/img/pic5.jpg"
+		},{
+			"id": 6,
+			"title": "这里是标题六",
+			"imgUrl":"./static/img/pic6.jpg"
+		}, {
+			"id": 7,
+			"title": "这里是标题七",
+			"imgUrl":"/static/img/pic7.jpg"
+		}, {
+			"id": 8,
+			"title": "这里是标题八",
+			"imgUrl":"/static/img/pic1.jpg"
+		}, {
+			"id": 9,
+			"title": "这里是标题九",
+			"imgUrl":"/static/img/pic2.jpg"
+		}, {
+			"id": 10,
+			"title": "这里是标题十",
+			"imgUrl":"/static/img/pic3.jpg"
+		},
+		{
+			"id": 11,
+			"title": "这里是标题十一",
+			"imgUrl":"./static/img/pic4.jpg"
+		}, {
+			"id": 12,
+			"title": "这里是标题十二",
+			"imgUrl":"/static/img/pic5.jpg"
+		}, {
+			"id": 13,
+			"title": "这里是标题十三",
+			"imgUrl":"/static/img/pic6.jpg"
+		}, {
+			"id": 14,
+			"title": "这里是标题十四",
+			"imgUrl":"/static/img/pic7.jpg"
+		}, {
+			"id": 15,
+			"title": "这里是标题十五",
+			"imgUrl":"/static/img/pic1.jpg"
+		},
+		{
+			"id": 16,
+			"title": "这里是标题十六",
+			"imgUrl":"./static/img/pic2.jpg"
+		}, {
+			"id": 17,
+			"title": "这里是标题十七",
+			"imgUrl":"/static/img/pic3.jpg"
+		}, {
+			"id": 18,
+			"title": "这里是标题十八",
+			"imgUrl":"/static/img/pic4.jpg"
+		}, {
+			"id": 19,
+			"title": "这里是标题十九",
+			"imgUrl":"/static/img/pic5.jpg"
+		}, {
+			"id": 20,
+			"title": "这里是标题二十",
+			"imgUrl":"/static/img/news_10.jpg"
+		}]
+	}
+	
+}
